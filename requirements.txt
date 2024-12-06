@@ -1,0 +1,4 @@
+Python 3.12.6 or later
+Flask 2.0.2 or later
+OpenSSL 3.3.2 3 Sep 2024) (Windows MSI installer)
+VSCode Version: 1.95.3 (system setup) or later
